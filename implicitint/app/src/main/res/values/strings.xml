@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">implicitint</string>
+    <string name="share" />
+    <string name="my_location" />
+    <string name="call" />
+    <string name="open_url" />
+</resources>

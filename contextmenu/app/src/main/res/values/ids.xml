@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="logOut" type="id" />
+    <item name="settings" type="id" />
+    <item name="help" type="id" />
+    <item name="notification" type="id" />
+    <item name="deals" type="id" />
+    <item name="cashback" type="id" />
+    <item name="coupons" type="id" />
+</resources>

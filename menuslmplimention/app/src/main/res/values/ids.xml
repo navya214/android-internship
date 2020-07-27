@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="share" type="id" />
+    <item name="dail" type="id" />
+    <item name="gallery" type="id" />
+</resources>
